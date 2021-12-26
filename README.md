@@ -1,7 +1,7 @@
 <a href="https://twitter.com/sausbora" target="_blank" rel="nofollow"><img align="right" alt="Saurabh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/saurabh-bora/" target="_blank" rel="nofollow"><img align="right" alt="Saurabh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/saurabhbora_/" target="_blank" rel="nofollow"><img align="right" alt="Saurabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ## Hi 👋 I am Saurabh! 
-I am a software developer who loves to solve any business problems using technology. Being a tech enthusiast, I love to read blogs & articles that showcase the latest technologies and inventions.
+I am a software engineer who loves to solve any business problems using technology. Being a tech enthusiast, I love to read blogs & articles that showcase the latest technologies and inventions.
 - 🌱 Currently learning and growing my skillset in javascript, nodejs, competitive coding, data structures and algorithms.
 - 🌐 Visit my [porfolio website](https://www.saurabhbora.com/) for complete background and contact.
 - 👋 My personal [blog site](https://www.saurabhbora.com/blog/)
